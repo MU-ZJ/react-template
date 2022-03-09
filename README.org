@@ -5,3 +5,4 @@
 - [ ] Add additional pages to template.
 - [ ] Add some CSS.
 - [ ] Research "Switch"/"Routes" change in react-router-dom.
+- [ ] Find any additional recent changes, make sure to use them in template for future reference.
