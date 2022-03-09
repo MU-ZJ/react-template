@@ -4,4 +4,4 @@
 - [ ] Fix routing to get Main showing up.
 - [ ] Add additional pages to template.
 - [ ] Add some CSS.
-- [ ] Research Switch-Routes change in react-router-dom.
+- [ ] Research "Switch"/"Routes" change in react-router-dom.
