@@ -5,6 +5,7 @@ function Nav() {
     <nav className="navbar is-light" role="navigation" aria-label="main navigation">
       <div className="navbar-start">
         <NavLink to='/' className="navbar-item">Home</NavLink>
+        <NavLink to='/content' className="navbar-item">Content</NavLink>
       </div>
 
     </nav>

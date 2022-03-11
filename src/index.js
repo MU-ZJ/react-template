@@ -6,13 +6,15 @@ import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import BaseLayout from './components/BaseLayout';
 import Main from './components/Main';
+import Content from './components/Content';
 
 ReactDOM.render(
   <React.StrictMode>
     <BrowserRouter>
       <BaseLayout>
         <Routes>
-          <Route exact path = "/" component = {Main} />
+          <Route exact path = "/" element = {<Main />} />
+          <Route exact path = "/content" element = {<Content />} />
         </Routes>
       </BaseLayout>
     </BrowserRouter>
