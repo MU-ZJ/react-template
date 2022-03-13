@@ -3,6 +3,7 @@
 * ToDo:
 - [X] Fix routing to get Main showing up.
 - [X] Add additional pages to template.
-- [ ] Add some CSS.
+- [X] Add some CSS.
 - [X] Research "Switch" -> "Routes" change in react-router-dom.
 - [ ] Find any additional recent changes, make sure to use them in template for future reference.
+- [ ] Add Gallery page template.

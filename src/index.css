@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+article {
+  margin: 0 15rem 0 15rem;
+}
+
+.hero {
+  margin-bottom: 5rem;
+}
+
+.is-medium {
+  border-style: dotted;
+}
