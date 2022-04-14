@@ -7,6 +7,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import BaseLayout from './components/BaseLayout';
 import Main from './components/Main';
 import Content from './components/Content';
+import Gallery from './components/Gallery';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -15,6 +16,7 @@ ReactDOM.render(
         <Routes>
           <Route exact path = "/" element = {<Main />} />
           <Route exact path = "/content" element = {<Content />} />
+          <Route exact path = "/gallery" element = {<Gallery />} />
         </Routes>
       </BaseLayout>
     </BrowserRouter>
