@@ -7,3 +7,4 @@
 - [X] Research "Switch" -> "Routes" change in react-router-dom.
 - [ ] Find any additional recent changes, make sure to use them in template for future reference.
 - [X] Add Gallery page template.
+- [ ] Figure out how to make a modal with react-bulma-components.
